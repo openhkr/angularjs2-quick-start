@@ -1,0 +1,7 @@
+.idea
+node_modules
+npm-debug.*
+link-checker-results.txt
+app/**/*.js
+_test-output
+_temp
